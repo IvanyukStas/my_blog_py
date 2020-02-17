@@ -25,7 +25,7 @@ SECRET_KEY = 'w-0l&96owz^95$7ct!pmgh=kfeg#359g33#dvp%f22h)+3_903'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '.www.com']
+ALLOWED_HOSTS = ['127.0.0.1', '.www.com', 'kadabrov.pythonanywhere.com']
 
 
 # Application definition
